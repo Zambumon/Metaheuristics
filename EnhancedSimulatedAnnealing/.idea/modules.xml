@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SimulatedAnnealing.iml" filepath="$PROJECT_DIR$/.idea/modules/SimulatedAnnealing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SimulatedAnnealing_main.iml" filepath="$PROJECT_DIR$/.idea/modules/SimulatedAnnealing_main.iml" group="SimulatedAnnealing" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SimulatedAnnealing_test.iml" filepath="$PROJECT_DIR$/.idea/modules/SimulatedAnnealing_test.iml" group="SimulatedAnnealing" />
+    </modules>
+  </component>
+</project>
